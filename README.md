@@ -16,7 +16,9 @@ Steps to reproduce the Project:
 
  ·  Now create a Bastian Host(Make sure to copy the instances key pair to 
  Bastian Host) and SSH both the EC2 instance as we do not want to 
+
  provide public ip’s to the EC2’s.
 
  ·  Once EC2 instances are connected, Deploy your application on the server.
  ·  We will see that the traffic is distributed on all the different servers.
+<img width="616" alt="Screenshot 2024-07-05 at 2 10 17 AM" src="https://github.com/shriabhishekk/AWS-VPC-with-Public-and-Private-Subnets/assets/92842067/4d97d81a-e1cc-4f0b-a61a-a426790db285">
